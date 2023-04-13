@@ -1,1 +1,1 @@
-# 5th week task of iot sensor foundation
+iot센서기초 5주차 과제
